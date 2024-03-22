@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Data Scientist"
+title: ""
 ---
 
 <img src="Seamus_Stein_profile2023.png" alt="Seamus's headshot" style="border-radius: 10%;  width: 50%; height: 20%;">
