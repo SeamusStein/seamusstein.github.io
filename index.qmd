@@ -22,7 +22,7 @@ comments: false
 ::: {.column-page}
 
 ## Bio
-I am Seamus Stein. 
+I am Seamus Stein.  k
 
 ## Inquiries
 If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:seamusstein@gmail.com). 
