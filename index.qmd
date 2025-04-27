@@ -1,6 +1,6 @@
 ---
 title: "Seamus Stein"
-image: images/profile.jpg
+image: images/seamus_Stein_profile2023.png
 about:
   template: trestles
   links:
@@ -9,10 +9,7 @@ about:
       url: "https://www.linkedin.com/in/seamus-stein/"
     - text: GitHub
       icon: github
-      url: "https://github.com/alburycatalina"
-    - text: ORCID
-      icon: person-circle
-      url: "https://orcid.org/0000-0003-1061-9213"
+      url: "https://github.com/SeamusStein"
     - text: Email
       icon: envelope
       url: "mailto:seamusstein@gmail.com"
@@ -22,7 +19,7 @@ comments: false
 ::: {.column-page}
 
 ## Bio
-I am Seamus Stein.  k
+I am Seamus Stein. 
 
 ## Inquiries
 If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:seamusstein@gmail.com). 
