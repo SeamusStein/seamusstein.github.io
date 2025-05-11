@@ -19,10 +19,9 @@ comments: false
 ::: {.column-page}
 
 ## Bio
-I am Seamus Stein. 
-
-## Inquiries
-If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:seamusstein@gmail.com). 
+Seamus Stein is a Research Assistant in the Department of Epidimology at Dartmouth College where he is
+a member of the Data Management and Biostatistics Core in the Maternal Immunization and Determinants of Infant Immunity Project.
+Before joining MADI, he earned his masters degree in Quantitative Biomedical Sciences at Dartmouth and his bachelors in Data Science at Saint Michael's College.
 
 :::
 
